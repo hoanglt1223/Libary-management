@@ -11,11 +11,11 @@
 
 # [h1]► Personal Infomation[/h1]
 # Name: Nguyễn Thanh Hoàng★
-# Birthday: 31/07/1999  ⠀⠀⠀⠀⠀⠀⠀ (¯`·.·´¯) (¯`·.·´¯)
-# Sex: Male ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀`·.¸(¯`·.·´¯)¸ .· ⠀⠀⠀⠀  ……….(¯`v´¯)
-# Zodiac: ♌Leo♌⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⠀×°× ` ·.¸.·´ ×°×⠀⠀⠀⠀⠀⠀………`•.¸.•´
-# From : Sai Gon, Viet Nam⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⠀⠀⠀⠀ ………(●̮̮̃•̃)..(●̮̮̃•̃)
-# Language: English and Vietnamese ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀……… /█\ ♥/█\
+# Birthday: 31/07/1999
+# Sex: Male
+# Zodiac: ♌Leo♌⠀
+# From : Sai Gon, Viet Nam
+# Language: English and Vietnamese
 # Relationship: dating with a ♐girl called "eny". She's a little happiness in my life.
 
 # [h1]►My PC ːSGunPCː ːSGunPCː ːSGunPCː[/h1]
