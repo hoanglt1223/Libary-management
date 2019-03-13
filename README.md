@@ -6,15 +6,15 @@
 
 # Features
 
-| STT | TÊN YÊU CẦU       | BIỂU MẪU                        | QUY ĐỊNH |
-|:----|:------------------|:--------------------------------|:---------|
-| 1   | Lập thẻ đọc giả   | BM1                             | QĐ1      |
-| 2   | Nhận sách mới     | BM2                             | QĐ2      |
-| 3   | Tra cứu sách      | BM3                             |          |
-| 4   | Cho mượn sách     | BM4                             | QĐ4      |
-| 5   | Nhận trả sách     | Độc giả cung cấp mã số cần trả  |          |
-| 6   | Lập báo cáo       | BM5.1, BM5.2                    |          | 
-| 7   | Thay đổi quy định | BM1                             | QĐ6      |
+| NO  | FEATURES                  | FORM                        | REGULATIONS     |
+|:----|:--------------------------|:----------------------------|:----------------|
+| 1   | Register new reader card  | FORM 1                      | REGULATION NO.1 |
+| 2   | Take new books            | FORM 2                      | REGULATION NO.2 |
+| 3   | Search books              | FORM 3                      |                 |
+| 4   | Lend books                | FORM 4                      | REGULATION NO.4 |
+| 5   | Recieve returned books    | Reader provide books' codes |                 |
+| 6   | Make reports              | FORM 5.1, FORM 5.2          |                 | 
+| 7   | Change regulations        | FORM 1                      | REGULATION NO.6 |
 
 # Authors
 
@@ -35,6 +35,7 @@
 - +84908920778
 - +84394503996
 - +84906337221
+
 ## Screenshots of the UI
 
 ### Login Page
