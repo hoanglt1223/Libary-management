@@ -5,21 +5,26 @@ C# and SQL Server.
 
 Library Management Project:
 
-Create a reader card
+1. Create a reader card
 
-Get new books
+2. Get new books
 
-Look up books
+3. Look up books
 
-Prepare a loan slip
+4. Prepare a loan slip
 
-Receive books
+5. Receive books
 
-Report
+6. Report
 
-Change rules
+7. Change rules
 
 ## Authors
 
-[TA]_[Nguyễn Thanh Hoàng (leader) 17520514+ Nguyễn Đoàn Anh Tú 17521199 + Trần Diệu Bảo Trân 17521150 + Tô Diệp Thiên Anh 17520251]
-
+[TA]
+{
+Nguyễn Thanh Hoàng	17520514 (leader)
+Nguyễn Đoàn Anh Tú	17521199 
+Trần Diệu Bảo Trân	17521150
+Tô Diệp Thiên Anh 	17520251
+}
