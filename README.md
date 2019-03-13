@@ -18,7 +18,7 @@ Library Management Project:
 
 - [TA]
 
-- - Nguyễn Thanh Hoàng	17520514 (leader)
+- Nguyễn Thanh Hoàng	17520514 (leader)
 - Nguyễn Đoàn Anh Tú	17521199 
 - Trần Diệu Bảo Trân	17521150
 - Tô Diệp Thiên Anh 	17520251
