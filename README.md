@@ -5,19 +5,19 @@ C# and SQL Server.
 
 Library Management Project:
 
-1. Create a reader card
+- Create a reader card
 
-2. Get new books
+- Get new books
 
-3. Look up books
+- Look up books
 
-4. Prepare a loan slip
+ Prepare a loan slip
 
-5. Receive books
+- Receive books
 
-6. Report
+- Report
 
-7. Change rules
+- Change rules
 
 ## Authors
 
