@@ -1,10 +1,9 @@
-# 
 # Make by C# and SQL Server.
+# Library Management System
+## Introduction to Software Engineering
+=========================
 
-# Project Title
-
-Library Management Project:
-
+Library Management System for learning purpose. Developing by TA's Team
 - Lập thẻ đọc giả
 - Nhận sách mới
 - Tra cứu sách
