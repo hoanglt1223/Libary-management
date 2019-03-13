@@ -6,10 +6,15 @@ C# and SQL Server.
 Library Management Project.
 
 Create a reader card
+
 Get new books
+
 Look up books
+
 Prepare a loan slip
+
 Receive books
+
 Change rules
 
 ## Authors
