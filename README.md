@@ -26,7 +26,7 @@
 - Tô Diệp Thiên Anh 	17520251
 
 # Source code
-[Download here](https://pages.github.com/).
+[Download here](https://pages.github.com/)
 
 # Changelog
 
