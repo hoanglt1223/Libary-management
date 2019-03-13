@@ -6,15 +6,15 @@
 
 # Features
 
-| STT | TÊN YÊU CẦU       | BIỂU MẪU      | QUY ĐỊNH |
-|:----|:------------------|:--------------|:-------|
-| 1   | Lập thẻ đọc giả   | BM1           | QĐ1 |
-| 2   | Nhận sách mới     | BM2           | QĐ2 |
-| 3   | Tra cứu sách      | BM3           |     |
-| 4   | Cho mượn sách     | BM4           | QĐ4 |
-| 5   | Nhận trả sách     | Độc giả       |     |
-| 6   | Lập báo cáo       | BM5.1, BM5.2  |     | 
-| 7   | Thay đổi quy định | BM1           | QĐ6 |
+| STT | TÊN YÊU CẦU       | BIỂU MẪU                        | QUY ĐỊNH |
+|:----|:------------------|:--------------------------------|:---------|
+| 1   | Lập thẻ đọc giả   | BM1                             | QĐ1      |
+| 2   | Nhận sách mới     | BM2                             | QĐ2      |
+| 3   | Tra cứu sách      | BM3                             |          |
+| 4   | Cho mượn sách     | BM4                             | QĐ4      |
+| 5   | Nhận trả sách     | Độc giả cung cấp mã số cần trả  |          |
+| 6   | Lập báo cáo       | BM5.1, BM5.2                    |          | 
+| 7   | Thay đổi quy định | BM1                             | QĐ6      |
 
 # Authors
 
