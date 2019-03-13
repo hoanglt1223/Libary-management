@@ -5,19 +5,14 @@ C# and SQL Server.
 
 Library Management Project:
 
-- Create a reader card
+-Lập thẻ đọc giả
+-Nhận sách mới
+-Tra cứu sách
+-Cho mượn sách
+-Nhận trả sách
+-Lập báo cáo
+-Thay đổi quy định
 
-- Get new books
-
-- Look up books
-
- Prepare a loan slip
-
-- Receive books
-
-- Report
-
-- Change rules
 
 ## Authors
 
