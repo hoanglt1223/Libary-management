@@ -3,7 +3,7 @@ C# and SQL Server.
 
 # Project Title
 
-Library Management Project.
+Library Management Project:
 
 Create a reader card
 
@@ -14,6 +14,8 @@ Look up books
 Prepare a loan slip
 
 Receive books
+
+Report
 
 Change rules
 
