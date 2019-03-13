@@ -1,20 +1,20 @@
 # 
-C# and SQL Server.
+# Make by C# and SQL Server.
 
 # Project Title
 
 Library Management Project:
 
--Lập thẻ đọc giả
--Nhận sách mới
--Tra cứu sách
--Cho mượn sách
--Nhận trả sách
--Lập báo cáo
--Thay đổi quy định
+- Lập thẻ đọc giả
+- Nhận sách mới
+- Tra cứu sách
+- Cho mượn sách
+- Nhận trả sách
+- Lập báo cáo
+- Thay đổi quy định
 
 
-## Authors
+# Authors
 
 [TA]
 {
