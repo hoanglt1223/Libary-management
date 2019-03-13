@@ -1,8 +1,9 @@
 # Library-Management-System
 # Introduction to Software Engineering
 
-* A simple libary management system built using `C#` and `SQL Server` for the purpose of a school project. Developing by TA's Team
-=========================
+* A simple libary management system built using `C#` and `SQL Server` for the purpose of a school project. 
+* Developing by TA's Team
+
 
 # Features
 
