@@ -1,5 +1,5 @@
 # Library-Management-System
-# Introduction to Software Engineering
+# Introduction to Software Engineering (SE104.J22.PMCL Lecturer: Nguyễn Công Hoan)
 
 * A simple libary management system built using `C#` and `SQL Server` for the purpose of a school project. 
 * Developing by TA's Team
@@ -20,10 +20,10 @@
 
 - [TA]
 
-- Nguyễn Thanh Hoàng	17520514 (leader)
-- Nguyễn Đoàn Anh Tú	17521199 
-- Trần Diệu Bảo Trân	17521150
-- Tô Diệp Thiên Anh 	17520251
+- Nguyễn Thanh Hoàng	  17520514 (leader)
+- Nguyễn Đoàn Anh Tú	  17521199 
+- Trần Diệu Bảo Trân	  17521150
+- Tô Diệp Thiên Anh 	  17520251
 
 # Source code
 [Download here](https://pages.github.com/)
