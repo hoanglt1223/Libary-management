@@ -20,6 +20,13 @@
 
 - [TA]
 
+| NO  | Name               | Student ID            | Phone Number |
+|:----|:-------------------|:----------------------|:-------------|
+| 1   | Nguyễn Thanh Hoàng | 17520514 (leader)     | +84908920778 |
+| 2   | Nguyễn Đoàn Anh Tú | 17521199              | +84394503996 |
+| 3   | Trần Diệu Bảo Trân | 17521150              | +84908920778 |
+| 4   | Tô Diệp Thiên Anh  | 17520251              | +84906559743 |
+
 - Nguyễn Thanh Hoàng	17520514 (leader)
 - Nguyễn Đoàn Anh Tú	17521199 
 - Trần Diệu Bảo Trân	17521150
