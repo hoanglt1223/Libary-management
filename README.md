@@ -1,5 +1,7 @@
 # Library-Management-System
-# Introduction to Software Engineering (SE104.J22.PMCL Lecturer: Nguyễn Công Hoan)
+# Introduction to Software Engineering 
+# Clas: SE104.J22.PMCL
+# Lecturer: Nguyễn Công Hoan)
 
 * A simple libary management system built using `C#` and `SQL Server` for the purpose of a school project. 
 * Developing by TA's Team
