@@ -26,7 +26,6 @@
 | 5   | Recieve returned books    | Reader provide books' codes |                 |
 | 6   | Make reports              | FORM 5.1, FORM 5.2          |                 | 
 | 7   | Change regulations        | FORM 1                      | REGULATION NO.6 |
->>>>>>> 2c090e0c76ebe2e6bff5f6096dc48f5d88890960
 
 # Authors
 
