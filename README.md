@@ -1,11 +1,12 @@
 # Library-Management-System
-# Introduction to Software Engineering
+# Introduction to Software Engineering (SE104.J22.PMCL Lecturer: Nguyễn Công Hoan)
 
 * A simple libary management system built using `C#` and `SQL Server` for the purpose of a school project. 
 * Developing by TA's Team
 
 # Features
 
+<<<<<<< HEAD
 | STT | TÊN YÊU CẦU       | BIỂU MẪU      | QUY ĐỊNH |
 |:----|:------------------|:--------------|:-------|
 | 1   | Lập thẻ đọc giả   | BM1           | QĐ1 |
@@ -15,15 +16,31 @@
 | 5   | Nhận trả sách     | Độc giả       |     |
 | 6   | Lập báo cáo       | BM5.1, BM5.2  |     | 
 | 7   | Thay đổi quy định | BM1           | QĐ6 |
+=======
+| NO  | FEATURES                  | FORM                        | REGULATIONS     |
+|:----|:--------------------------|:----------------------------|:----------------|
+| 1   | Register new reader card  | FORM 1                      | REGULATION NO.1 |
+| 2   | Take new books            | FORM 2                      | REGULATION NO.2 |
+| 3   | Search books              | FORM 3                      |                 |
+| 4   | Lend books                | FORM 4                      | REGULATION NO.4 |
+| 5   | Recieve returned books    | Reader provide books' codes |                 |
+| 6   | Make reports              | FORM 5.1, FORM 5.2          |                 | 
+| 7   | Change regulations        | FORM 1                      | REGULATION NO.6 |
+>>>>>>> 2c090e0c76ebe2e6bff5f6096dc48f5d88890960
 
 # Authors
 
 - [TA]
 
-- Nguyễn Thanh Hoàng	17520514 (leader)
-- Nguyễn Đoàn Anh Tú	17521199 
-- Trần Diệu Bảo Trân	17521150
-- Tô Diệp Thiên Anh 	17520251
+- Nguyễn Thanh Hoàng	  17520514 (leader)
+- Nguyễn Đoàn Anh Tú	  17521199 
+- Trần Diệu Bảo Trân	  17521150
+- Tô Diệp Thiên Anh 	  17520251
+
+# Source code
+[Download here](https://pages.github.com/)
+
+# Changelog
 
 ## Screenshots of the UI
 
