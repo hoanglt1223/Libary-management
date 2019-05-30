@@ -1,0 +1,22 @@
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DTO\bin\Release\Properties\AssemblyInfo.cs
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DTO\bin\Release\DTO.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DTO\bin\Release\DTO.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DTO\obj\Release\DTO.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DTO\obj\Release\DTO.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DTO\bin\Release\Microsoft.CSharp.dll
+D:\Documents\CNPM\QLTV\QLTV\DTO\bin\Release\Properties\AssemblyInfo.cs
+D:\Documents\CNPM\QLTV\QLTV\DTO\bin\Release\DTO.dll
+D:\Documents\CNPM\QLTV\QLTV\DTO\bin\Release\DTO.pdb
+D:\Documents\CNPM\QLTV\QLTV\DTO\bin\Release\Microsoft.CSharp.dll
+D:\Documents\CNPM\QLTV\QLTV\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+D:\Documents\CNPM\QLTV\QLTV\DTO\obj\Release\DTO.dll
+D:\Documents\CNPM\QLTV\QLTV\DTO\obj\Release\DTO.pdb
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DTO\bin\Release\Properties\AssemblyInfo.cs
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DTO\bin\Release\DTO.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DTO\bin\Release\DTO.pdb
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DTO\bin\Release\Microsoft.CSharp.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DTO\obj\Release\DTO.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DTO\obj\Release\DTO.csproj.CopyComplete
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DTO\obj\Release\DTO.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DTO\obj\Release\DTO.pdb

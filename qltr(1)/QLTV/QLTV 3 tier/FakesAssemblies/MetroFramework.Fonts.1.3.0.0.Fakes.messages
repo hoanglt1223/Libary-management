@@ -1,0 +1,2 @@
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.Fonts.fakes : warning : Cannot generate stub for MetroFrameworkDesignAssembly: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.Fonts.fakes : warning : Cannot generate shim for MetroFrameworkDesignAssembly: type is not visible to exported or assembly(MetroFramework.Fonts.1.3.0.0.Fakes).

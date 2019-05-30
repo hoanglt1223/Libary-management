@@ -1,0 +1,148 @@
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.csprojResolveAssemblyReference.cache
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.csproj.GenerateResource.Cache
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\RdlCompile.cache
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\RdlCompile.compiled
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\Properties\AssemblyInfo.cs
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\rptSachChuaTra.rdlc
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\rptSachDaTra.rdlc
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\rptSachTreHan.rdlc
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\QLThuVien.exe.config
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\QLThuVien.exe
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\QLThuVien.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\BUS.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\DTO.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\MetroFramework.Design.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\MetroFramework.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\MetroFramework.Fonts.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\Microsoft.CSharp.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\DAO.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\BUS.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\DTO.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.xml
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.xml
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Release\DAO.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmCapNhatDocGia.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmCapNhatNXB.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmCapNhatSach.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmCapNhatTacGia.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmCapNhatTheLoai.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmDoiMK.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmDuyetPhieuMuonDangCho.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmDuyetYeuCauTra.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmMain.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmCapNhatThe.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmPhieuMuon.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmTaoMoiTKNV.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmThongKeSachDangMuon.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmThongKeSachDaTra.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmThongKeSachTreHan.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmThongTin.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmThongTinPhieuMuon.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmTimKiemSach.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmTraSach.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.frmXoaPhieuMuon.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLTV.Properties.Resources.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLThuVien.exe
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Release\QLThuVien.pdb
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\QLThuVien.exe.config
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLThuVien.exe
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLThuVien.pdb
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\Properties\AssemblyInfo.cs
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\rptSachChuaTra.rdlc
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\rptSachDaTra.rdlc
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\rptSachTreHan.rdlc
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\QLThuVien.exe
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\QLThuVien.pdb
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\BUS.dll
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\DTO.dll
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\MetroFramework.Design.dll
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\MetroFramework.dll
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\MetroFramework.Fonts.dll
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\Microsoft.CSharp.dll
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.dll
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.dll
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\DAO.dll
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\BUS.pdb
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\DTO.pdb
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.xml
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.xml
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\bin\Release\DAO.pdb
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.csprojResolveAssemblyReference.cache
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmCapNhatDocGia.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmCapNhatNXB.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmCapNhatSach.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmCapNhatTacGia.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmCapNhatTheLoai.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmDoiMK.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmDuyetPhieuMuonDangCho.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmDuyetYeuCauTra.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmMain.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmCapNhatThe.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmPhieuMuon.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmTaoMoiTKNV.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmThongKeSachDangMuon.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmThongKeSachDaTra.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmThongKeSachTreHan.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmThongTin.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmThongTinPhieuMuon.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmTimKiemSach.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmTraSach.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmXoaPhieuMuon.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.Properties.Resources.resources
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.csproj.GenerateResource.Cache
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\RdlCompile.cache
+D:\Documents\CNPM\QLTV\QLTV\QLTV 3 tier\obj\Release\RdlCompile.compiled
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\Properties\AssemblyInfo.cs
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\rptSachChuaTra.rdlc
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\rptSachDaTra.rdlc
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\rptSachTreHan.rdlc
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\QLThuVien.exe.config
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\QLThuVien.exe
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\QLThuVien.pdb
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\BUS.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\DTO.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\Microsoft.CSharp.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\DAO.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\BUS.pdb
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\DTO.pdb
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.xml
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.xml
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\bin\Release\DAO.pdb
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmCapNhatDocGia.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmCapNhatNXB.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmCapNhatSach.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmCapNhatTacGia.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmCapNhatTheLoai.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmDoiMK.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmDuyetPhieuMuonDangCho.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmDuyetYeuCauTra.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmMain.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmCapNhatThe.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmPhieuMuon.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmTaoMoiTKNV.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmThongKeSachDangMuon.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmThongKeSachDaTra.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmThongKeSachTreHan.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmThongTin.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmThongTinPhieuMuon.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmTimKiemSach.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmTraSach.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.frmXoaPhieuMuon.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.Properties.Resources.resources
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLTV.csproj.CopyComplete
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLThuVien.exe
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\QLTV 3 tier\obj\Release\QLThuVien.pdb

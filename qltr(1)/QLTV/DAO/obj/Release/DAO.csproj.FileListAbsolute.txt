@@ -1,0 +1,29 @@
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DAO\bin\Release\Properties\AssemblyInfo.cs
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DAO\bin\Release\DAO.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DAO\bin\Release\DAO.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DAO\bin\Release\DTO.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DAO\bin\Release\DTO.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DAO\obj\Release\DAO.csprojResolveAssemblyReference.cache
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DAO\obj\Release\DAO.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DAO\obj\Release\DAO.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DAO\bin\Release\Microsoft.CSharp.dll
+D:\Documents\CNPM\QLTV\QLTV\DAO\bin\Release\Properties\AssemblyInfo.cs
+D:\Documents\CNPM\QLTV\QLTV\DAO\bin\Release\DAO.dll
+D:\Documents\CNPM\QLTV\QLTV\DAO\bin\Release\DAO.pdb
+D:\Documents\CNPM\QLTV\QLTV\DAO\bin\Release\DTO.dll
+D:\Documents\CNPM\QLTV\QLTV\DAO\bin\Release\Microsoft.CSharp.dll
+D:\Documents\CNPM\QLTV\QLTV\DAO\bin\Release\DTO.pdb
+D:\Documents\CNPM\QLTV\QLTV\DAO\obj\Release\DAO.csprojResolveAssemblyReference.cache
+D:\Documents\CNPM\QLTV\QLTV\DAO\obj\Release\DAO.dll
+D:\Documents\CNPM\QLTV\QLTV\DAO\obj\Release\DAO.pdb
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DAO\bin\Release\Properties\AssemblyInfo.cs
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DAO\bin\Release\DAO.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DAO\bin\Release\DAO.pdb
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DAO\bin\Release\DTO.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DAO\bin\Release\Microsoft.CSharp.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DAO\bin\Release\DTO.pdb
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DAO\obj\Release\DAO.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DAO\obj\Release\DAO.csproj.CopyComplete
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DAO\obj\Release\DAO.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\DAO\obj\Release\DAO.pdb

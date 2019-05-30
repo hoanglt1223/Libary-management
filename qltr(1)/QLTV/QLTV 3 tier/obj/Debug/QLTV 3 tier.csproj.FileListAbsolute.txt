@@ -1,0 +1,100 @@
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\QLTV 3 tier.exe.config
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\QLTV 3 tier.exe
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\QLTV 3 tier.pdb
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\BUS.dll
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\DTO.dll
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\MetroFramework.Design.dll
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\MetroFramework.dll
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\MetroFramework.Fonts.dll
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\BUS.pdb
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\DTO.pdb
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV 3 tier.csprojResolveAssemblyReference.cache
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmMain.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.Properties.Resources.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV 3 tier.csproj.GenerateResource.Cache
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV 3 tier.exe
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV 3 tier.pdb
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmCapNhatDocGia.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmCapNhatNXB.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmCapNhatSach.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmCapNhatTacGia.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmCapNhatThe.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmCapNhatTheLoai.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmDoiMK.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmDuyetPhieuMuonDangCho.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmDuyetYeuCauTra.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmPhieuMuon.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmTaoMoiTKNV.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmTimKiemSach.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmTraSach.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\DAO.dll
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\DAO.pdb
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\Properties\AssemblyInfo.cs
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmThongTinPhieuMuon.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmXoaPhieuMuon.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmThongTinDocGia.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmThongKeSachDangMuon.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\RdlCompile.cache
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\RdlCompile.compiled
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmThongKeSachDaTra.resources
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\rptSachChuaTra.rdlc
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\rptSachDaTra.rdlc
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\bin\Debug\rptSachTreHan.rdlc
+D:\Project\C #\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmThongKeSachTreHan.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\QLTV 3 tier.exe.config
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV 3 tier.exe
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV 3 tier.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\Properties\AssemblyInfo.cs
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\rptSachChuaTra.rdlc
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\rptSachDaTra.rdlc
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\rptSachTreHan.rdlc
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\QLTV 3 tier.exe
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\QLTV 3 tier.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\BUS.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\DTO.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\DAO.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\BUS.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\DTO.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\DAO.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV 3 tier.csprojResolveAssemblyReference.cache
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmCapNhatDocGia.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmCapNhatNXB.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmCapNhatSach.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmCapNhatTacGia.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmCapNhatTheLoai.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmDoiMK.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmDuyetPhieuMuonDangCho.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmDuyetYeuCauTra.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmMain.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmCapNhatThe.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmPhieuMuon.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmTaoMoiTKNV.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmThongKeSachDangMuon.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmThongKeSachDaTra.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmThongKeSachTreHan.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmThongTinPhieuMuon.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmTimKiemSach.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmTraSach.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmXoaPhieuMuon.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.Properties.Resources.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV 3 tier.csproj.GenerateResource.Cache
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\RdlCompile.cache
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\RdlCompile.compiled
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLTV_3_tier.frmThongTin.resources
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\Microsoft.CSharp.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.xml
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.xml
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\System.Data.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\System.Deployment.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\System.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\System.Drawing.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\System.Web.Services.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\System.Windows.Forms.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\System.Xml.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\System.Xml.Linq.dll

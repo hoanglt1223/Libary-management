@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MetroFramework.Fonts.1.3.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:MetroFramework.Fonts.Fakes.ShimFontResolver">
+            <summary>Shim type of MetroFramework.Fonts.FontResolver</summary>
+        </member>
+        <member name="M:MetroFramework.Fonts.Fakes.ShimFontResolver.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:MetroFramework.Fonts.Fakes.ShimFontResolver.#ctor(MetroFramework.Fonts.FontResolver)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:MetroFramework.Fonts.Fakes.ShimFontResolver.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:MetroFramework.Fonts.Fakes.ShimFontResolver.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MetroFramework.Fonts.Fakes.ShimFontResolver.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:MetroFramework.Fonts.Fakes.ShimFontResolver.Constructor">
+            <summary>Sets the shim of FontResolver.FontResolver()</summary>
+        </member>
+        <member name="P:MetroFramework.Fonts.Fakes.ShimFontResolver.GetFontFamilyString">
+            <summary>Sets the shim of FontResolver.GetFontFamily(String familyName)</summary>
+        </member>
+        <member name="P:MetroFramework.Fonts.Fakes.ShimFontResolver.ResolveFontStringSingleFontStyleGraphicsUnit">
+            <summary>Sets the shim of FontResolver.ResolveFont(String familyName, Single emSize, FontStyle fontStyle, GraphicsUnit unit)</summary>
+        </member>
+        <member name="P:MetroFramework.Fonts.Fakes.ShimFontResolver.TryResolveStringRefFontStyleRef">
+            <summary>Sets the shim of FontResolver.TryResolve(String&amp; familyName, FontStyle&amp; fontStyle)</summary>
+        </member>
+        <member name="T:MetroFramework.Fonts.Fakes.ShimFontResolver.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:MetroFramework.Fonts.Fakes.ShimFontResolver.AllInstances.GetFontFamilyString">
+            <summary>Sets the shim of FontResolver.GetFontFamily(String familyName)</summary>
+        </member>
+        <member name="P:MetroFramework.Fonts.Fakes.ShimFontResolver.AllInstances.ResolveFontStringSingleFontStyleGraphicsUnit">
+            <summary>Sets the shim of FontResolver.ResolveFont(String familyName, Single emSize, FontStyle fontStyle, GraphicsUnit unit)</summary>
+        </member>
+        <member name="T:MetroFramework.Fonts.Fakes.StubFontResolver">
+            <summary>Stub type of MetroFramework.Fonts.FontResolver</summary>
+        </member>
+        <member name="M:MetroFramework.Fonts.Fakes.StubFontResolver.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:MetroFramework.Fonts.Fakes.StubFontResolver.InitializeStub">
+            <summary>Initializes a new instance of type StubFontResolver</summary>
+        </member>
+        <member name="P:MetroFramework.Fonts.Fakes.StubFontResolver.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:MetroFramework.Fonts.Fakes.StubFontResolver.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:MetroFramework.Fonts.Fakes.StubFontResolver.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

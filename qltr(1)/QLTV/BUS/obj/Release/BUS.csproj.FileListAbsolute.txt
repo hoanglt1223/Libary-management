@@ -1,0 +1,35 @@
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Release\Properties\AssemblyInfo.cs
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Release\BUS.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Release\BUS.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Release\DAO.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Release\DTO.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Release\DAO.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Release\DTO.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\obj\Release\BUS.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\obj\Release\BUS.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Release\Microsoft.CSharp.dll
+D:\Documents\CNPM\QLTV\QLTV\BUS\bin\Release\Properties\AssemblyInfo.cs
+D:\Documents\CNPM\QLTV\QLTV\BUS\bin\Release\BUS.dll
+D:\Documents\CNPM\QLTV\QLTV\BUS\bin\Release\BUS.pdb
+D:\Documents\CNPM\QLTV\QLTV\BUS\bin\Release\DAO.dll
+D:\Documents\CNPM\QLTV\QLTV\BUS\bin\Release\DTO.dll
+D:\Documents\CNPM\QLTV\QLTV\BUS\bin\Release\Microsoft.CSharp.dll
+D:\Documents\CNPM\QLTV\QLTV\BUS\bin\Release\DAO.pdb
+D:\Documents\CNPM\QLTV\QLTV\BUS\bin\Release\DTO.pdb
+D:\Documents\CNPM\QLTV\QLTV\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+D:\Documents\CNPM\QLTV\QLTV\BUS\obj\Release\BUS.dll
+D:\Documents\CNPM\QLTV\QLTV\BUS\obj\Release\BUS.pdb
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\BUS\bin\Release\Properties\AssemblyInfo.cs
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\BUS\bin\Release\BUS.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\BUS\bin\Release\BUS.pdb
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\BUS\bin\Release\DAO.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\BUS\bin\Release\DTO.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\BUS\bin\Release\Microsoft.CSharp.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\BUS\bin\Release\DAO.pdb
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\BUS\bin\Release\DTO.pdb
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\BUS\obj\Release\BUS.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\BUS\obj\Release\BUS.csproj.CopyComplete
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\BUS\obj\Release\BUS.dll
+C:\Users\nguye\Desktop\QLTV\+QLTV\QLTV\BUS\obj\Release\BUS.pdb

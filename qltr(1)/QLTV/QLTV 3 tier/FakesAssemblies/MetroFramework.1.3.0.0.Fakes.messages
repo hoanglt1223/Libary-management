@@ -1,0 +1,147 @@
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Animation.AnimationAction: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Animation.AnimationFinishedEvaluator: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Animation.ColorBlendAnimation: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Animation.DelayedCall: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Animation.DelayedCall`1: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Animation.DelayedCall`2: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Animation.DelayedCall`3: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Animation.ExpandAnimation: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Animation.MoveAnimation: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Animation.TransitionType: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Components.MetroStyleExtender: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Components.MetroStyleManager: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Controls.MetroLabelMode: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Controls.MetroScrollOrientation: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Drawing.Html.CssBoxWord: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Drawing.Html.CssBoxWordSplitter: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Drawing.Html.CssDrawingHelper: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Drawing.Html.CssLayoutEngine: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Drawing.Html.CssLineBox: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Drawing.Html.CssTable: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Drawing.Html.CssValue: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Drawing.Html.HtmlRenderer: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Drawing.Html.Parser: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Drawing.MetroBackBuffer: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Drawing.MetroPaint: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Forms.MetroFormTextAlign: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Forms.MetroFormShadowType: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Forms.MetroFormBorderStyle: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Forms.BackLocation: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Forms.MetroTaskWindow: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Localization.MetroLocalize: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroMessageBox: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroBrushes: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroColors: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroColorStyle: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroDefaults: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroLabelSize: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroLabelWeight: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroTileTextSize: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroTileTextWeight: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroLinkSize: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroLinkWeight: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroComboBoxSize: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroComboBoxWeight: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroDateTimeSize: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroDateTimeWeight: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroTextBoxSize: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroTextBoxWeight: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroProgressBarSize: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroProgressBarWeight: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroTabControlSize: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroTabControlWeight: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroCheckBoxSize: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroCheckBoxWeight: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroButtonSize: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroButtonWeight: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroFonts: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroImage: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroPens: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.MetroThemeStyle: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Native.DwmApi: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Native.SubClass: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Native.TaskbarPosition: type is a value type.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Native.Taskbar: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Native.WinApi: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Native.WinCaret: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFrameworkAssembly: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.AssemblyRef: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Properties.Resources: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for MetroFramework.Properties.Settings: type is sealed.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate stub for <PrivateImplementationDetails>{2B64F857-978C-4A16-AA76-4E1E11AE967F}: type is not supported because of internal limitations.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Animation.AnimationAction: type is a delegate.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Animation.AnimationFinishedEvaluator: type is a delegate.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Animation.ColorBlendAnimation+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Animation.DelayedCall: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Animation.DelayedCall`1: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Animation.DelayedCall`2: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Animation.DelayedCall`3: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Animation.ExpandAnimation+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Animation.MoveAnimation+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Animation.TransitionType: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Interfaces.IMetroComponent: type is an interface.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Interfaces.IMetroControl: type is an interface.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Controls.MetroContextMenu+MetroCTXRenderer: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Controls.MetroContextMenu+contextcolors: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Controls.MetroLabelMode: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Controls.MetroLabel+DoubleBufferedTextBox: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Controls.MetroScrollOrientation: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Controls.MetroTextBox+PromptedTextBox: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Drawing.Html.CssBoxWord: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Drawing.Html.CssBoxWordSplitter: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Drawing.Html.CssDrawingHelper: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Drawing.Html.CssLayoutEngine: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Drawing.Html.CssLength+CssUnit: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Drawing.Html.CssLineBox: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Drawing.Html.CssTable: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Drawing.Html.Parser: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Drawing.MetroBackBuffer: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Forms.MetroFormTextAlign: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Forms.MetroFormShadowType: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Forms.MetroFormBorderStyle: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Forms.BackLocation: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Interfaces.IMetroForm: type is an interface.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Forms.MetroForm+MetroAeroDropShadow: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Forms.MetroForm+MetroFlatDropShadow: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Forms.MetroForm+MetroFormButton: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Forms.MetroForm+MetroRealisticDropShadow: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Forms.MetroForm+MetroShadowBase: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Forms.MetroForm+WindowButtons: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Localization.MetroLocalize: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroColorStyle: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroDefaults: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroLabelSize: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroLabelWeight: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroTileTextSize: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroTileTextWeight: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroLinkSize: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroLinkWeight: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroComboBoxSize: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroComboBoxWeight: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroDateTimeSize: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroDateTimeWeight: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroTextBoxSize: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroTextBoxWeight: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroProgressBarSize: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroProgressBarWeight: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroTabControlSize: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroTabControlWeight: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroCheckBoxSize: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroCheckBoxWeight: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroButtonSize: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroButtonWeight: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroFonts+DefaultFontResolver: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroFonts+IMetroFontResolver: type is an interface.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroImage: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.MetroThemeStyle: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Native.DwmApi: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Native.SubClass: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Native.TaskbarPosition: type is an enum.
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Native.Taskbar: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Native.WinApi: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Native.WinCaret: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFrameworkAssembly: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.AssemblyRef: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Properties.Resources: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for MetroFramework.Properties.Settings: type is not visible to exported or assembly(MetroFramework.1.3.0.0.Fakes).
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\Fakes\MetroFramework.fakes : warning : Cannot generate shim for <PrivateImplementationDetails>{2B64F857-978C-4A16-AA76-4E1E11AE967F}: type is not supported because of internal limitations.

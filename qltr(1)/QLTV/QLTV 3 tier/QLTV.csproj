@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9B06E999-D6C7-4AC7-AA91-132585615829}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLTV</RootNamespace>
+    <AssemblyName>QLThuVien</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1450011482_2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\C#\MetroFramework\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\..\..\C#\MetroFramework\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\..\..\C#\MetroFramework\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common.11.0.0.0.Fakes">
+      <HintPath>FakesAssemblies\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes">
+      <HintPath>FakesAssemblies\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Web.Services">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutoCompleteComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmCapNhatDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapNhatDocGia.Designer.cs">
+      <DependentUpon>frmCapNhatDocGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapNhatNXB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapNhatNXB.Designer.cs">
+      <DependentUpon>frmCapNhatNXB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapNhatSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapNhatSach.Designer.cs">
+      <DependentUpon>frmCapNhatSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapNhatTacGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapNhatTacGia.Designer.cs">
+      <DependentUpon>frmCapNhatTacGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapNhatTheLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapNhatTheLoai.Designer.cs">
+      <DependentUpon>frmCapNhatTheLoai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoiMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoiMK.Designer.cs">
+      <DependentUpon>frmDoiMK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTaoMoiTKNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTaoMoiTKNV.Designer.cs">
+      <DependentUpon>frmTaoMoiTKNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCapNhatDocGia.resx">
+      <DependentUpon>frmCapNhatDocGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapNhatNXB.resx">
+      <DependentUpon>frmCapNhatNXB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapNhatSach.resx">
+      <DependentUpon>frmCapNhatSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapNhatTacGia.resx">
+      <DependentUpon>frmCapNhatTacGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapNhatTheLoai.resx">
+      <DependentUpon>frmCapNhatTheLoai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoiMK.resx">
+      <DependentUpon>frmDoiMK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTaoMoiTKNV.resx">
+      <DependentUpon>frmTaoMoiTKNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{54c2b26f-0c9e-4b05-9421-3ee07f7ac445}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{ea8676f0-73a1-4267-af17-368d13d03ccf}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1450011482_2.ico" />
+    <Content Include="folder_library.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
