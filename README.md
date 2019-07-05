@@ -16,7 +16,7 @@
 - Trần Diệu Bảo Trân	17521150
 
 # Source code
-[Download here](https://drive.google.com/open?id=1VO3SNnDPaIE_XNyl3z_qZoerr4pfYRrL)
+[Download here](./ARCHIVE/QLTV.rar?raw=true)
 
 # Contact
 - 17520514.gm.uit.edu.vn
