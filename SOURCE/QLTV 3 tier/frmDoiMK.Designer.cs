@@ -134,7 +134,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frmDoiMK";
             this.Padding = new System.Windows.Forms.Padding(23, 78, 23, 26);
-            this.Style = MetroFramework.MetroColorStyle.Green;
+            this.Style = MetroFramework.MetroColorStyle.Pink;
             this.Text = "Đổi mật khẩu";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmDoiMK_FormClosing);
             this.Load += new System.EventHandler(this.frmDoiMK_Load);

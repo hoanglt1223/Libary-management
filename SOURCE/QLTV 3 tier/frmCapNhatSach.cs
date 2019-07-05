@@ -108,7 +108,7 @@ namespace QLTV
         private void HienThiDuLieu()
         {
             this.dgvSach.DataSource = null;
-            
+            this.dgvSach.DataSource = BUS_OBJ.loadDSSach();
 
             dgvSach.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
             dgvSach.Columns[0].HeaderText = "Mã sách";

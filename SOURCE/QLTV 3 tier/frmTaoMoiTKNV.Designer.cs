@@ -133,7 +133,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frmTaoMoiTKNV";
             this.Padding = new System.Windows.Forms.Padding(23, 78, 23, 26);
-            this.Style = MetroFramework.MetroColorStyle.Green;
+            this.Style = MetroFramework.MetroColorStyle.Pink;
             this.Text = "Tạo mới tài khoản NV";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmTaoMoiTKNV_FormClosing);
             this.Load += new System.EventHandler(this.frmTaoMoiTKNV_Load);

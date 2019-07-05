@@ -1,1 +1,1 @@
-SQLCMD -S DESKTOP-1846UKP -E -i createDBQLTV.sql
+SQLCMD -S . -E -i createDBQLTV.sql

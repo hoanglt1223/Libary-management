@@ -8,9 +8,24 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>QLTV</RootNamespace>
-    <AssemblyName>QLThuVien</AssemblyName>
+    <AssemblyName>QLTV</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -32,30 +47,42 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>1450011482_2.ico</ApplicationIcon>
+    <ApplicationIcon>mohinh_Wh3_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="MetroFramework">
-      <HintPath>..\..\..\..\C#\MetroFramework\MetroFramework.dll</HintPath>
+    <Reference Include="MetroFramework, Version=1.3.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.3.0.0\lib\net\MetroFramework.dll</HintPath>
     </Reference>
-    <Reference Include="MetroFramework.Design">
-      <HintPath>..\..\..\..\C#\MetroFramework\MetroFramework.Design.dll</HintPath>
+    <Reference Include="MetroFramework.Design, Version=1.3.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.3.0.0\lib\net\MetroFramework.Design.dll</HintPath>
     </Reference>
-    <Reference Include="MetroFramework.Fonts">
-      <HintPath>..\..\..\..\C#\MetroFramework\MetroFramework.Fonts.dll</HintPath>
+    <Reference Include="MetroFramework.Fonts, Version=1.3.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.3.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
-    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">
-      <Private>True</Private>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.Common.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.ReportViewer.Common.11.0.0.0.Fakes">
       <HintPath>FakesAssemblies\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.ProcessingObjectModel.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.WebForms.DLL</HintPath>
     </Reference>
     <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes">
       <HintPath>FakesAssemblies\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.11.0.0\lib\net20\Microsoft.SqlServer.Types.dll</HintPath>
     </Reference>
     <Reference Include="System">
       <Private>False</Private>
@@ -95,6 +122,24 @@
     <Compile Include="AutoCompleteComboBox.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="dsSachDangMuon.cs">
+      <DependentUpon>dsSachDangMuon.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsSachDangMuon.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsSachDangMuon.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsSachDaTra.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsSachDaTra.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsSachTreHan.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsSachTreHan.xsd</DependentUpon>
+    </Compile>
     <Compile Include="frmCapNhatDocGia.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -131,17 +176,89 @@
     <Compile Include="frmDoiMK.Designer.cs">
       <DependentUpon>frmDoiMK.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmDuyetPhieuMuonDangCho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDuyetPhieuMuonDangCho.Designer.cs">
+      <DependentUpon>frmDuyetPhieuMuonDangCho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDuyetYeuCauTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDuyetYeuCauTra.Designer.cs">
+      <DependentUpon>frmDuyetYeuCauTra.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmMain.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmMain.Designer.cs">
       <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmCapNhatThe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapNhatThe.Designer.cs">
+      <DependentUpon>frmCapNhatThe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhieuMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhieuMuon.Designer.cs">
+      <DependentUpon>frmPhieuMuon.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmTaoMoiTKNV.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmTaoMoiTKNV.Designer.cs">
       <DependentUpon>frmTaoMoiTKNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongKeSachDangMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongKeSachDangMuon.Designer.cs">
+      <DependentUpon>frmThongKeSachDangMuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongKeSachDaTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongKeSachDaTra.Designer.cs">
+      <DependentUpon>frmThongKeSachDaTra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongKeSachTreHan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongKeSachTreHan.Designer.cs">
+      <DependentUpon>frmThongKeSachTreHan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongTin.Designer.cs">
+      <DependentUpon>frmThongTin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongTinPhieuMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongTinPhieuMuon.Designer.cs">
+      <DependentUpon>frmThongTinPhieuMuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMuonSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMuonSach.Designer.cs">
+      <DependentUpon>frmMuonSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTraSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTraSach.Designer.cs">
+      <DependentUpon>frmTraSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmXoaPhieuMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmXoaPhieuMuon.Designer.cs">
+      <DependentUpon>frmXoaPhieuMuon.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -163,11 +280,47 @@
     <EmbeddedResource Include="frmDoiMK.resx">
       <DependentUpon>frmDoiMK.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmDuyetPhieuMuonDangCho.resx">
+      <DependentUpon>frmDuyetPhieuMuonDangCho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDuyetYeuCauTra.resx">
+      <DependentUpon>frmDuyetYeuCauTra.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmCapNhatThe.resx">
+      <DependentUpon>frmCapNhatThe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhieuMuon.resx">
+      <DependentUpon>frmPhieuMuon.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmTaoMoiTKNV.resx">
       <DependentUpon>frmTaoMoiTKNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongKeSachDangMuon.resx">
+      <DependentUpon>frmThongKeSachDangMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongKeSachDaTra.resx">
+      <DependentUpon>frmThongKeSachDaTra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongKeSachTreHan.resx">
+      <DependentUpon>frmThongKeSachTreHan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongTin.resx">
+      <DependentUpon>frmThongTin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongTinPhieuMuon.resx">
+      <DependentUpon>frmThongTinPhieuMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMuonSach.resx">
+      <DependentUpon>frmMuonSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTraSach.resx">
+      <DependentUpon>frmTraSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmXoaPhieuMuon.resx">
+      <DependentUpon>frmXoaPhieuMuon.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -179,6 +332,51 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="rptSachChuaTra.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptSachDaTra.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptSachTreHan.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="dsSachDangMuon.xsc">
+      <DependentUpon>dsSachDangMuon.xsd</DependentUpon>
+    </None>
+    <None Include="dsSachDangMuon.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsSachDangMuon.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsSachDangMuon.xss">
+      <DependentUpon>dsSachDangMuon.xsd</DependentUpon>
+    </None>
+    <None Include="dsSachDaTra.xsc">
+      <DependentUpon>dsSachDaTra.xsd</DependentUpon>
+    </None>
+    <None Include="dsSachDaTra.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsSachDaTra.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsSachDaTra.xss">
+      <DependentUpon>dsSachDaTra.xsd</DependentUpon>
+    </None>
+    <None Include="dsSachTreHan.xsc">
+      <DependentUpon>dsSachTreHan.xsd</DependentUpon>
+    </None>
+    <None Include="dsSachTreHan.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsSachTreHan.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsSachTreHan.xss">
+      <DependentUpon>dsSachTreHan.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -203,11 +401,18 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="1450011482_2.ico" />
     <Content Include="folder_library.ico" />
+    <Content Include="mohinh_Wh3_icon.ico" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

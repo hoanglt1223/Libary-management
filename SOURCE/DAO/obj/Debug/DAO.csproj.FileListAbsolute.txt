@@ -15,25 +15,25 @@ D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DAO\obj\Debug\DAO.csprojResolveAssembl
 D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DAO\obj\Debug\DAO.dll
 D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DAO\obj\Debug\DAO.pdb
 D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\DAO\bin\Debug\Microsoft.CSharp.dll
-D:\cnpm\New folder\+QLTV\QLTV\DAO\bin\Debug\Properties\AssemblyInfo.cs
-D:\cnpm\New folder\+QLTV\QLTV\DAO\bin\Debug\DAO.dll
-D:\cnpm\New folder\+QLTV\QLTV\DAO\bin\Debug\DAO.pdb
-D:\cnpm\New folder\+QLTV\QLTV\DAO\bin\Debug\DTO.dll
-D:\cnpm\New folder\+QLTV\QLTV\DAO\bin\Debug\Microsoft.CSharp.dll
-D:\cnpm\New folder\+QLTV\QLTV\DAO\bin\Debug\DTO.pdb
-D:\cnpm\New folder\+QLTV\QLTV\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
-D:\cnpm\New folder\+QLTV\QLTV\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
-D:\cnpm\New folder\+QLTV\QLTV\DAO\obj\Debug\DAO.csproj.CopyComplete
-D:\cnpm\New folder\+QLTV\QLTV\DAO\obj\Debug\DAO.dll
-D:\cnpm\New folder\+QLTV\QLTV\DAO\obj\Debug\DAO.pdb
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\DAO\bin\Debug\Properties\AssemblyInfo.cs
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\DAO\bin\Debug\DAO.dll
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\DAO\bin\Debug\DAO.pdb
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\DAO\bin\Debug\DTO.dll
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\DAO\bin\Debug\Microsoft.CSharp.dll
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\DAO\bin\Debug\DTO.pdb
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\DAO\obj\Debug\DAO.csproj.CopyComplete
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\DAO\obj\Debug\DAO.dll
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\DAO\obj\Debug\DAO.pdb
+C:\Users\nguye\Desktop\New folder\DAO\bin\Debug\Properties\AssemblyInfo.cs
+C:\Users\nguye\Desktop\New folder\DAO\bin\Debug\DAO.dll
+C:\Users\nguye\Desktop\New folder\DAO\bin\Debug\DAO.pdb
+C:\Users\nguye\Desktop\New folder\DAO\bin\Debug\DTO.dll
+C:\Users\nguye\Desktop\New folder\DAO\bin\Debug\Microsoft.CSharp.dll
+C:\Users\nguye\Desktop\New folder\DAO\bin\Debug\DTO.pdb
+C:\Users\nguye\Desktop\New folder\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\New folder\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\New folder\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\nguye\Desktop\New folder\DAO\obj\Debug\DAO.dll
+C:\Users\nguye\Desktop\New folder\DAO\obj\Debug\DAO.pdb
+C:\Users\nguye\Desktop\cnpm\QLTV\DAO\bin\Debug\Properties\AssemblyInfo.cs
+C:\Users\nguye\Desktop\cnpm\QLTV\DAO\bin\Debug\DAO.dll
+C:\Users\nguye\Desktop\cnpm\QLTV\DAO\bin\Debug\DAO.pdb
+C:\Users\nguye\Desktop\cnpm\QLTV\DAO\bin\Debug\DTO.dll
+C:\Users\nguye\Desktop\cnpm\QLTV\DAO\bin\Debug\Microsoft.CSharp.dll
+C:\Users\nguye\Desktop\cnpm\QLTV\DAO\bin\Debug\DTO.pdb
+C:\Users\nguye\Desktop\cnpm\QLTV\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\cnpm\QLTV\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\cnpm\QLTV\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\nguye\Desktop\cnpm\QLTV\DAO\obj\Debug\DAO.dll
+C:\Users\nguye\Desktop\cnpm\QLTV\DAO\obj\Debug\DAO.pdb

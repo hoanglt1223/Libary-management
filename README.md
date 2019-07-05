@@ -23,6 +23,8 @@
 
 ## Screenshots of the UI
 
+### Icon
+![Icon Image](./screens/Icon.png?raw=true)
 ### Login Page
 ![Login Screenshot](./screens/login.png?raw=true)
 ### User Borrow Search
