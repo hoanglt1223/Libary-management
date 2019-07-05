@@ -56,13 +56,16 @@
     <Compile Include="DangNhap_DTO.cs" />
     <Compile Include="DocGia_DTO.cs" />
     <Compile Include="LoaiDocGia_DTO.cs" />
+    <Compile Include="LoaiThe_DTO.cs" />
     <Compile Include="NXB_DTO.cs" />
+    <Compile Include="PhieuMuon_DTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
     <Compile Include="Sach_DTO.cs" />
     <Compile Include="TacGia_DTO.cs" />
     <Compile Include="TheLoai_DTO.cs" />
+    <Compile Include="The_DTO.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

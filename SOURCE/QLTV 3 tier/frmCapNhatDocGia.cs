@@ -168,6 +168,12 @@ namespace QLTV
         {
             try
             {
+                if (BUS_OBJ.demSoTheTheoTen(txtMaDG.Text) > 0)
+                {
+                    MetroFramework.MetroMessageBox.Show(this, "Dữ liệu bị trùng, mã thẻ đã tồn tại.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                else
+                {
                     DateTime ngayCapThe = DateTime.Now;
                     DateTime ngayHetHan = DateTime.Now;
                     int soSachDuocMuon = 0, soSachDangMuon = 0;
@@ -185,7 +191,9 @@ namespace QLTV
                         ngayHetHan = DateTime.Now.AddYears(5);
                         soSachDuocMuon = 8;
                     }
-                    
+                    The_DTO the = new The_DTO(txtMaDG.Text, txtMaDG.Text, (string)cboLoaiDG.SelectedValue, ngayCapThe, ngayHetHan, soSachDuocMuon, soSachDangMuon);
+                    BUS_OBJ.themThe(the);
+                }
             }
             catch (Exception ex)
             {

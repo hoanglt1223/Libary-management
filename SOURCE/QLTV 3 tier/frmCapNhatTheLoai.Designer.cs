@@ -199,10 +199,10 @@
             this.dgvTheLoai.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleVertical;
             this.dgvTheLoai.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.LightGreen;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.LightPink;
             dataGridViewCellStyle1.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             dataGridViewCellStyle1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.LightGreen;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.LightPink;
             dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
             dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dgvTheLoai.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
@@ -211,7 +211,7 @@
             dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             dataGridViewCellStyle2.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             dataGridViewCellStyle2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(136)))), ((int)(((byte)(136)))));
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.LightGreen;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.LightPink;
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dgvTheLoai.DefaultCellStyle = dataGridViewCellStyle2;
@@ -251,7 +251,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.Name = "frmCapNhatTheLoai";
             this.Padding = new System.Windows.Forms.Padding(26, 92, 26, 31);
-            this.Style = MetroFramework.MetroColorStyle.Green;
+            this.Style = MetroFramework.MetroColorStyle.Pink;
             this.Text = "Cập nhật thể loại";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmCapNhatTheLoai_FormClosing);
             this.Load += new System.EventHandler(this.frmCapNhatTheLoai_Load);

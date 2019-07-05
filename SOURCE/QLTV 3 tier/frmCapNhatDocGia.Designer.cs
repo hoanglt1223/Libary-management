@@ -346,10 +346,10 @@
             this.dgvDocGia.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleVertical;
             this.dgvDocGia.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.LightGreen;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.LightPink;
             dataGridViewCellStyle1.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             dataGridViewCellStyle1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.LightGreen;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.LightPink;
             dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
             dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dgvDocGia.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
@@ -380,7 +380,7 @@
             this.dgvDocGia.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
             this.dgvDocGia.RowHeadersVisible = false;
             this.dgvDocGia.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
-            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.LightGreen;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.LightPink;
             this.dgvDocGia.RowsDefaultCellStyle = dataGridViewCellStyle4;
             this.dgvDocGia.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.dgvDocGia.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
@@ -399,7 +399,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frmCapNhatDocGia";
             this.Padding = new System.Windows.Forms.Padding(23, 78, 23, 26);
-            this.Style = MetroFramework.MetroColorStyle.Green;
+            this.Style = MetroFramework.MetroColorStyle.Pink;
             this.Text = "Cập nhật độc giả";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmCapNhatDocGia_FormClosing);
             this.Load += new System.EventHandler(this.frmCapNhatDocGia_Load);

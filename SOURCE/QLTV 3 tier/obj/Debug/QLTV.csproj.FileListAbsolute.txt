@@ -49,65 +49,103 @@ D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\obj\Debug\QLThuVien.pdb
 D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\MetroFramework.Design.dll
 D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\MetroFramework.dll
 D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\QLTV 3 tier\bin\Debug\MetroFramework.Fonts.dll
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\Properties\AssemblyInfo.cs
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\QLThuVien.exe.config
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\QLThuVien.exe
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\QLThuVien.pdb
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\BUS.dll
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\DTO.dll
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\Microsoft.CSharp.dll
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.dll
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.dll
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\DAO.dll
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\BUS.pdb
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\DTO.pdb
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.xml
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.xml
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\bin\Debug\DAO.pdb
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLTV.csprojAssemblyReference.cache
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatDocGia.resources
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatNXB.resources
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatSach.resources
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatTacGia.resources
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatTheLoai.resources
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmDoiMK.resources
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmMain.resources
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmTaoMoiTKNV.resources
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLTV.Properties.Resources.resources
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLTV.csproj.GenerateResource.cache
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLTV.csproj.CopyComplete
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLThuVien.exe
-D:\cnpm\New folder\+QLTV\QLTV\QLTV 3 tier\obj\Debug\QLThuVien.pdb
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\Properties\AssemblyInfo.cs
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\QLThuVien.exe.config
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\QLThuVien.exe
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\QLThuVien.pdb
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\BUS.dll
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\DTO.dll
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\Microsoft.CSharp.dll
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.dll
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.dll
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\DAO.dll
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\BUS.pdb
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\DTO.pdb
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.xml
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.xml
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\bin\Debug\DAO.pdb
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLTV.csprojAssemblyReference.cache
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatDocGia.resources
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatNXB.resources
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatSach.resources
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatTacGia.resources
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatTheLoai.resources
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmDoiMK.resources
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmMain.resources
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmTaoMoiTKNV.resources
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLTV.Properties.Resources.resources
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLTV.csproj.GenerateResource.cache
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLTV.csproj.CopyComplete
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLThuVien.exe
-C:\Users\Xiaochen\Documents\GitHub\Libary-management\qltr(1)\QLTV\QLTV 3 tier\obj\Debug\QLThuVien.pdb
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\Properties\AssemblyInfo.cs
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\rptSachChuaTra.rdlc
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\rptSachDaTra.rdlc
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\rptSachTreHan.rdlc
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\QLThuVien.exe.config
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\QLThuVien.exe
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\QLThuVien.pdb
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\BUS.dll
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\DTO.dll
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\MetroFramework.Design.dll
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\MetroFramework.dll
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\Microsoft.CSharp.dll
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\DAO.dll
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\BUS.pdb
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\DTO.pdb
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.Common.11.0.0.0.Fakes.xml
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.WinForms.11.0.0.0.Fakes.xml
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\bin\Debug\DAO.pdb
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatDocGia.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatNXB.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatSach.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatTacGia.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatTheLoai.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmDoiMK.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmDuyetPhieuMuonDangCho.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmDuyetYeuCauTra.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmMain.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatThe.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmPhieuMuon.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmTaoMoiTKNV.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmThongKeSachDangMuon.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmThongKeSachDaTra.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmThongKeSachTreHan.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmThongTin.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmThongTinPhieuMuon.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmMuonSach.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmTraSach.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.frmXoaPhieuMuon.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLTV.csproj.CopyComplete
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLThuVien.exe
+C:\Users\nguye\Desktop\New folder\QLTV 3 tier\obj\Debug\QLThuVien.pdb
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\Properties\AssemblyInfo.cs
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\rptSachChuaTra.rdlc
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\rptSachDaTra.rdlc
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\rptSachTreHan.rdlc
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\QLTV.exe.config
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\QLTV.exe
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\QLTV.pdb
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\BUS.dll
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\DTO.dll
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\MetroFramework.Design.dll
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\MetroFramework.dll
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\Microsoft.CSharp.dll
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\DAO.dll
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\BUS.pdb
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\DTO.pdb
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\bin\Debug\DAO.pdb
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatDocGia.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatNXB.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatSach.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatTacGia.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatTheLoai.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmDoiMK.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmDuyetPhieuMuonDangCho.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmDuyetYeuCauTra.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmMain.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmCapNhatThe.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmPhieuMuon.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmTaoMoiTKNV.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmThongKeSachDangMuon.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmThongKeSachDaTra.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmThongKeSachTreHan.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmThongTin.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmThongTinPhieuMuon.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmMuonSach.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmTraSach.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.frmXoaPhieuMuon.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.csproj.CopyComplete
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.exe
+C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.pdb

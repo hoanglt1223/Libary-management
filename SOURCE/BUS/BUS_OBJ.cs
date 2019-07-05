@@ -35,7 +35,38 @@ namespace BUS
         {
             return Sach_DAO.layTenNXB(maNXB);
         }
-        
+        public static string layMaTheTheoMaDocGia(string maDocGia)
+        {
+            return Sach_DAO.layMaTheTheoMaDocGia(maDocGia);
+        }
+        public static int laySoSachDuocMuon(string maThe)
+        {
+            return Sach_DAO.laySoSachDuocMuon(maThe);
+        }
+        public static int laySoSachDangMuon(string maThe)
+        {
+            return Sach_DAO.laySoSachDangMuon(maThe);
+        }
+        public static DateTime layNgayHetHan(string maThe)
+        {
+            return Sach_DAO.layNgayHetHan(maThe);
+        }
+        public static int laySoPhieuMuonDangChoDuyet(string maThe)
+        {
+            return Sach_DAO.demSoPhieuMuonTheoMaThe(maThe);
+        }
+        public static int laySoPhieuMuonTheoMaSach(string maThe,string maSach)
+        {
+            return Sach_DAO.demSoPhieuMuonTheoMaTheVaMaSach(maThe,maSach);
+        }
+        public static int demSoPhieuMuonChoDuyet()
+        {
+            return Sach_DAO.demSoPhieuMuonChoDuyet();
+        }
+        public static int demSoPhieuMuonTreHan()
+        {
+            return Sach_DAO.demSoPhieuMuonTreHan();
+        }
         public static void taoMoiTKNV(string tenDN, string mk)
         {
             Sach_DAO.taoMoiTK(tenDN,mk);
@@ -68,9 +99,26 @@ namespace BUS
         {
             return Sach_DAO.loadDSLoaiDG();
         }
-               
-         
-        
+        public static DataTable loadDSLoaiThe()
+        {
+            return Sach_DAO.loadDSLoaiThe();
+        }
+        public static DataTable loadDSThe()
+        {
+            return Sach_DAO.loadDSThe();
+        }
+        public static DataTable loadDSPhieuMuon()
+        {
+            return Sach_DAO.loadDSPhieuMuon();
+        }
+        public static DataTable loadDSPhieuMuonDaTra()
+        {
+            return Sach_DAO.loadDSPhieuMuonDaTra();
+        }
+        public static DataTable loadDSPhieuMuonChuaTra()
+        {
+            return Sach_DAO.loadDSPhieuMuonChuaTra();
+        }
         public static void themSach(Sach_DTO sach)
         {
             Sach_DAO.themSach(sach);
@@ -119,7 +167,14 @@ namespace BUS
         {
             Sach_DAO.xoaTL(maTheLoai);
         }
-            
+        public static int demSoTheTheoTen(string maDocGia)
+        {
+            return Sach_DAO.demSoTheTheoTen(maDocGia);
+        }
+        public static void themThe(The_DTO the)
+        {
+            Sach_DAO.themThe(the);
+        }
         public static void themUser(string tenDN, string mK, int type)
         {
             Sach_DAO.themUser(tenDN, mK, type);
@@ -144,8 +199,14 @@ namespace BUS
         {
             Sach_DAO.xoaDG(maDocGia);
         }
-       
-       
+        public static void xoaThe(string maThe)
+        {
+            Sach_DAO.xoaThe(maThe);
+        }
+        public static void suaThe(The_DTO the)
+        {
+            Sach_DAO.suaThe(the);
+        }
         public static DataTable timKiemTheoMaSach(string maSach)
         {
             return Sach_DAO.timKiemTheoMaSach(maSach);
@@ -170,7 +231,38 @@ namespace BUS
         {
             return Sach_DAO.timKiemTheoNamXB(namXB);
         }
-       
+        public static void guiPhieuMuon(PhieuMuon_DTO phieuMuon)
+        {
+            Sach_DAO.guiPhieuMuon(phieuMuon);
+        }
+        public static DataTable timKiemPhieuMuonTheoMaThe(string maThe)
+        {
+            return Sach_DAO.timKiemPhieuMuonTheoMaThe(maThe);
+        }
+        public static DataTable timKiemPhieuMuonDaTraTheoMaThe(string maThe)
+        {
+            return Sach_DAO.timKiemPhieuMuonDaTraTheoMaThe(maThe);
+        }
+        public static DataTable timKiemPhieuMuonTheoMaSach(string maSach)
+        {
+            return Sach_DAO.timKiemPhieuMuonTheoMaSach(maSach);
+        }
+        public static DataTable timKiemPhieuMuonDaTraTheoMaSach(string maSach)
+        {
+            return Sach_DAO.timKiemPhieuMuonDaTraTheoMaSach(maSach);
+        }
+        public static DataTable timKiemPhieuMuonTheoTinhTrang(string tinhTrang)
+        {
+            return Sach_DAO.timKiemPhieuMuonTheoTinhTrang(tinhTrang);
+        }
+        public static DataTable timKiemPhieuMuonTheoSoPhieu(int soPhieu)
+        {
+            return Sach_DAO.timKiemPhieuMuonTheoSoPhieu(soPhieu);
+        }
+        public static DataTable timKiemPhieuMuonDaTraTheoSoPhieu(int soPhieu)
+        {
+            return Sach_DAO.timKiemPhieuMuonDaTraTheoSoPhieu(soPhieu);
+        }
         public static string layMaDocGiaTheoTenDocGia(string tenDocGia)
         {
             return Sach_DAO.layMaDocGiaTheoTenDocGia(tenDocGia);
@@ -179,8 +271,47 @@ namespace BUS
         {
             return Sach_DAO.layMaSachTheoTenSach(tenSach);
         }
-        
-       
+        public static void duyetPhieuMuon(PhieuMuon_DTO phieuMuon)
+        {
+            Sach_DAO.duyetPhieuMuon(phieuMuon);
+        }
+        public static void suaPhieuMuonDangCho(PhieuMuon_DTO phieuMuon)
+        {
+            Sach_DAO.suaPhieuMuonDangCho(phieuMuon);
+        }
+        public static void tuChoiPhieuMuon(int soPhieu)
+        {
+            Sach_DAO.tuChoiPhieuMuon(soPhieu);
+        }
+        public static DataTable loadPhieuMuonChoDuyetTra()
+        {
+            return Sach_DAO.loadPhieuMuonChoDuyetTra();
+        }
+        public static DataTable loadDSSachDangMuonTheoMaThe(string maThe)
+        {
+            return Sach_DAO.loadDSSachDangMuonTheoMaThe(maThe);
+        }
+        public static DataTable loadTTPhieuMuonTheoMaTheVaMaSach(string maThe, string maSach)
+        {
+            return Sach_DAO.loadTTPhieuMuonTheoMaTheVaMaSach(maThe,maSach);
+        }
+        public static void yeuCauTraSach(int soPhieu)
+        {
+            Sach_DAO.yeuCauTraSach(soPhieu);
+        }
+        public static void duyetYeuCauTraSach(int soPhieu, string maThe, string maSach)
+        {
+            Sach_DAO.duyetYeuCauTraSach(soPhieu, maThe, maSach);
+        }
+        public static void tuChoiTraSach(int soPhieu)
+        {
+            Sach_DAO.tuChoiTraSach(soPhieu);
+        }
+        public static void xoaPhieuMuon(int soPhieu)
+        {
+            Sach_DAO.xoaPhieuMuon(soPhieu);
+        }
+
         public static DocGia_DTO layTTDocGia(string maDocGia)
         {
             return DocGia_DAO.layTTDocGia(maDocGia);
@@ -191,6 +322,10 @@ namespace BUS
             return DocGia_DAO.layTenLoaiDocGia(maDocGia);
         }
 
+        public static The_DTO layTTThe(string maThe)
+        {
+            return The_DAO.layTTThe(maThe);
+        }
 
     }
 }

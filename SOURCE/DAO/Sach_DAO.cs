@@ -24,11 +24,42 @@ namespace DAO
             return dt;
         }
         // dem so phieu muon theo ma the (phieu dang cho phe duyet)
-
+        public static int demSoPhieuMuonTheoMaThe(string maThe)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_demSoPhieuMuonTheoMaThe", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@mathe", SqlDbType.VarChar).Value = maThe;
+            conn.Open();
+            int soPhieuMuonChoDuyet = Convert.ToInt16(cmd.ExecuteScalar());
+            conn.Close();
+            return soPhieuMuonChoDuyet;
+        }
         // dem so phieu muon theo ma the va ma sach (phieu dang cho duyet hoac da muon nhung chua tra)
-
+        public static int demSoPhieuMuonTheoMaTheVaMaSach(string maThe, string maSach)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_demSoPhieuMuonTheoMaTheVaMaSach", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@mathe", SqlDbType.VarChar).Value = maThe;
+            cmd.Parameters.Add("@masach", SqlDbType.VarChar).Value = maSach;
+            conn.Open();
+            int soPhieuMuonTheoMaSach = Convert.ToInt16(cmd.ExecuteScalar());
+            conn.Close();
+            return soPhieuMuonTheoMaSach;
+        }
         // dem so the theo ten
-
+        public static int demSoTheTheoTen(string maDocGia)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_demSoTheTheoTen", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@madocgia", SqlDbType.VarChar).Value = maDocGia;
+            conn.Open();
+            int soTheTheoTen = Convert.ToInt16(cmd.ExecuteScalar());
+            conn.Close();
+            return soTheTheoTen;
+        }
         // check loai tai khoan
         public static object loaiTaiKhoan(string tenDN, string matKhau)
         {
@@ -107,7 +138,53 @@ namespace DAO
             conn.Close();
             return tenNXB;
         }
-       
+        public static string layMaTheTheoMaDocGia(string maDocGia)
+        {
+            string maThe = "";
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_layMaTheTheoMaDG", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@madocgia", SqlDbType.VarChar).Value = maDocGia;
+            conn.Open();
+            maThe = Convert.ToString(cmd.ExecuteScalar());
+            conn.Close();
+            return maThe;
+        }
+        public static int laySoSachDuocMuon(string maThe)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_laySoSachDuocMuon", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@mathe", SqlDbType.VarChar).Value = maThe;
+            conn.Open();
+            int soSachDuocMuon = Convert.ToInt32(cmd.ExecuteScalar());
+            conn.Close();
+            return soSachDuocMuon;
+        }
+        public static int laySoSachDangMuon(string maThe)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_laySoSachDangMuon", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@mathe", SqlDbType.VarChar).Value = maThe;
+            conn.Open();
+            int soSachDangMuon = Convert.ToInt32(cmd.ExecuteScalar());
+            conn.Close();
+            return soSachDangMuon;
+        }
+        public static DateTime layNgayHetHan(string maThe)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_layNgayHetHan", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@mathe", SqlDbType.VarChar).Value = maThe;
+            conn.Open();
+            string strNgayHetHan = Convert.ToString(cmd.ExecuteScalar());
+            conn.Close();
+            DateTime ngayHetHan = new DateTime();
+            DateTime.TryParse(strNgayHetHan, out ngayHetHan);
+            return ngayHetHan;
+        }
         //tao moi tai khoan
         public static void taoMoiTK(string tenDN, string mk) 
         {
@@ -141,7 +218,36 @@ namespace DAO
             da.Fill(dt);
             return dt;
         }
-        
+        public static DataTable loadDSPhieuMuon()
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_loadTatCaPhieuMuon", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
+        public static DataTable loadDSPhieuMuonDaTra()
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_loadTatCaPhieuMuonDaTra", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
+        public static DataTable loadDSPhieuMuonChuaTra()
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_loadTatCaPhieuMuonChuaTra", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
         public static DataTable loadDSTheLoai()
         {
             SqlConnection conn = SQLConn.connect();
@@ -334,7 +440,22 @@ namespace DAO
             da.Fill(dt);
             return dt;
         }
-        
+        public static void themThe(The_DTO the)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd1 = new SqlCommand("sp_themthe", conn);
+            cmd1.CommandType = CommandType.StoredProcedure;
+            cmd1.Parameters.Add("@mathe", SqlDbType.VarChar).Value = the.MaThe;
+            cmd1.Parameters.Add("@madocgia", SqlDbType.VarChar).Value = the.MaDocGia;
+            cmd1.Parameters.Add("@maloaithe", SqlDbType.VarChar).Value = the.MaLoaiThe;
+            cmd1.Parameters.Add("@ngaycapthe", SqlDbType.Date).Value = the.NgayCapThe;
+            cmd1.Parameters.Add("@ngayhethan", SqlDbType.Date).Value = the.NgayHetHan;
+            cmd1.Parameters.Add("@sosachduocmuon", SqlDbType.Int).Value = the.SoSachDuocMuon;
+            cmd1.Parameters.Add("@sosachdangmuon", SqlDbType.Int).Value = the.SoSachDangMuon;
+            conn.Open();
+            cmd1.ExecuteNonQuery();
+            conn.Close();
+        }
         public static void themUser(string tenDN, string mK, int type)
         {
             SqlConnection conn = SQLConn.connect();
@@ -417,7 +538,52 @@ namespace DAO
             cmd.ExecuteNonQuery();
             conn.Close();
         }
-       
+        public static DataTable loadDSLoaiThe()
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_loadTatCaLoaiThe", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
+        public static DataTable loadDSThe()
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_loadTatCaThe", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
+        public static void xoaThe(string maThe)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_xoathe1", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@mathe", SqlDbType.VarChar).Value = maThe;
+            conn.Open();
+            cmd.ExecuteNonQuery();
+            conn.Close();
+        }
+        public static void suaThe(The_DTO the)
+        {
+            SqlConnection conn = SQLConn.connect(); 
+            SqlCommand cmd = new SqlCommand("sp_suathe", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@mathe", SqlDbType.VarChar).Value = the.MaThe;
+            cmd.Parameters.Add("@madocgia", SqlDbType.VarChar).Value = the.MaDocGia;
+            cmd.Parameters.Add("@maloaithe", SqlDbType.VarChar).Value = the.MaLoaiThe;
+            cmd.Parameters.Add("@ngaycapthe", SqlDbType.Date).Value = the.NgayCapThe;
+            cmd.Parameters.Add("@ngayhethan", SqlDbType.Date).Value = the.NgayHetHan;
+            cmd.Parameters.Add("@sosachduocmuon", SqlDbType.Int).Value = the.SoSachDuocMuon;
+            cmd.Parameters.Add("@sosachdangmuon", SqlDbType.Int).Value = the.SoSachDangMuon;
+            conn.Open();
+            cmd.ExecuteNonQuery();
+            conn.Close();
+        }
         public static DataTable timKiemTheoMaSach(string maSach)
         {
             SqlConnection conn = SQLConn.connect(); 
@@ -484,7 +650,98 @@ namespace DAO
             da.Fill(dt);
             return dt;
         }
-       
+        public static void guiPhieuMuon(PhieuMuon_DTO phieuMuon)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_themphieumuon", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@mathe", SqlDbType.VarChar).Value = phieuMuon.MaThe;
+            cmd.Parameters.Add("@masach", SqlDbType.VarChar).Value = phieuMuon.MaSach;
+            cmd.Parameters.Add("@ngaymuon", SqlDbType.Date).Value = phieuMuon.NgayMuon;
+            cmd.Parameters.Add("@ngaytra", SqlDbType.Date).Value = phieuMuon.NgayTra;
+            cmd.Parameters.Add("@tinhtrang", SqlDbType.NVarChar).Value = phieuMuon.TinhTrang;
+            cmd.Parameters.Add("@ghichu", SqlDbType.NVarChar).Value = phieuMuon.GhiChu;
+            conn.Open();
+            cmd.ExecuteNonQuery();
+            conn.Close();
+        }
+        public static DataTable timKiemPhieuMuonTheoMaThe(string maThe)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_timKiemPhieuMuonTheoMaThe", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@mathe", SqlDbType.VarChar).Value = maThe;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
+        public static DataTable timKiemPhieuMuonDaTraTheoMaThe(string maThe)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_timKiemPhieuMuonDaTraTheoMaThe", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@mathe", SqlDbType.VarChar).Value = maThe;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
+        public static DataTable timKiemPhieuMuonTheoMaSach(string maSach)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_timKiemPhieuMuonTheoMaSach", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@masach", SqlDbType.VarChar).Value = maSach;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
+        public static DataTable timKiemPhieuMuonDaTraTheoMaSach(string maSach)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_timKiemPhieuMuonDaTraTheoMaSach", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@masach", SqlDbType.VarChar).Value = maSach;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
+        public static DataTable timKiemPhieuMuonTheoTinhTrang(string tinhTrang)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_timKiemPhieuMuonTheoTinhTrang", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@tinhtrang", SqlDbType.NVarChar).Value = tinhTrang;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
+        public static DataTable timKiemPhieuMuonTheoSoPhieu(int soPhieu)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_timKiemPhieuMuonTheoSoPhieu", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@sophieu", SqlDbType.Int).Value = soPhieu;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
+        public static DataTable timKiemPhieuMuonDaTraTheoSoPhieu(int soPhieu)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_timKiemPhieuMuonDaTraTheoSoPhieu", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@sophieu", SqlDbType.Int).Value = soPhieu;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
         public static string layMaDocGiaTheoTenDocGia(string tenDocGia)
         {
             string maDocGia = "";
@@ -511,6 +768,135 @@ namespace DAO
             conn.Close();
             return maSach;
         }
-        
+        public static void duyetPhieuMuon(PhieuMuon_DTO phieuMuon)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_duyetphieumuon", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@sophieu", SqlDbType.Int).Value = phieuMuon.SoPhieu;
+            cmd.Parameters.Add("@mathe", SqlDbType.VarChar).Value = phieuMuon.MaThe;
+            cmd.Parameters.Add("@masach", SqlDbType.VarChar).Value = phieuMuon.MaSach;
+            conn.Open();
+            cmd.ExecuteNonQuery();
+            conn.Close();
+        }
+        public static void suaPhieuMuonDangCho(PhieuMuon_DTO phieuMuon)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_suaphieumuondangcho", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@sophieu", SqlDbType.Int).Value = phieuMuon.SoPhieu;
+            cmd.Parameters.Add("@ngaymuon", SqlDbType.Date).Value = phieuMuon.NgayMuon;
+            cmd.Parameters.Add("@ngaytra", SqlDbType.Date).Value = phieuMuon.NgayTra;
+            cmd.Parameters.Add("@ghichu", SqlDbType.NVarChar).Value = phieuMuon.GhiChu;
+            conn.Open();
+            cmd.ExecuteNonQuery();
+            conn.Close();
+        }
+        public static void tuChoiPhieuMuon(int soPhieu)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_tuchoiphieumuon", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@sophieu", SqlDbType.Int).Value = soPhieu;
+            conn.Open();
+            cmd.ExecuteNonQuery();
+            conn.Close();
+        }
+        public static DataTable loadPhieuMuonChoDuyetTra()
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_loadPhieuMuonChoDuyetTra", conn);
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
+        public static DataTable loadDSSachDangMuonTheoMaThe(string maThe)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_loadDSSachDangMuonTheoMaThe", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@mathe", SqlDbType.VarChar).Value = maThe;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
+        public static DataTable loadTTPhieuMuonTheoMaTheVaMaSach(string maThe, string maSach)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_loadTTPhieuMuonTheoMaTheVaMaSach", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@mathe", SqlDbType.VarChar).Value = maThe;
+            cmd.Parameters.Add("@masach", SqlDbType.VarChar).Value = maSach;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
+        public static void yeuCauTraSach(int soPhieu)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_yeucautrasach", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@sophieu", SqlDbType.Int).Value = soPhieu;
+            conn.Open();
+            cmd.ExecuteNonQuery();
+            conn.Close();
+        }
+        public static void duyetYeuCauTraSach(int soPhieu, string maThe, string maSach)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd3 = new SqlCommand("sp_duyetyeucautrasach", conn);
+            cmd3.CommandType = CommandType.StoredProcedure;
+            cmd3.Parameters.Add("@sophieu", SqlDbType.Int).Value = soPhieu;
+            cmd3.Parameters.Add("@mathe", SqlDbType.VarChar).Value = maThe;
+            cmd3.Parameters.Add("@masach", SqlDbType.VarChar).Value = maSach;
+            conn.Open();
+            cmd3.ExecuteNonQuery();
+            conn.Close();
+        }
+        public static void tuChoiTraSach(int soPhieu) {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_tuchoitrasach", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@sophieu", SqlDbType.Int).Value = soPhieu;
+            conn.Open();
+            cmd.ExecuteNonQuery();
+            conn.Close();
+        }
+        public static void xoaPhieuMuon(int soPhieu)
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_xoaPhieuMuon", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@sophieu", SqlDbType.Int).Value = soPhieu;
+            conn.Open();
+            cmd.ExecuteNonQuery();
+            conn.Close();
+        }
+
+        public static int demSoPhieuMuonChoDuyet()
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_demSoPhieuMuonChoDuyet", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            conn.Open();
+            int result = Convert.ToInt32(cmd.ExecuteScalar());
+            conn.Close();
+            return result;
+        }
+
+        public static int demSoPhieuMuonTreHan()
+        {
+            SqlConnection conn = SQLConn.connect();
+            SqlCommand cmd = new SqlCommand("sp_demSoPhieuMuonTreHan", conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            conn.Open();
+            int result = Convert.ToInt32(cmd.ExecuteScalar());
+            conn.Close();
+            return result;
+        }
     }
 }
