@@ -23,6 +23,8 @@
 
 ## Screenshots of the UI
 
+### Database Diagram
+![Database Diagram](./screens/Database Diagram.png?raw=true)
 ### Login Page
 ![Login Screenshot](./screens/login.png?raw=true)
 ### User Borrow Search
