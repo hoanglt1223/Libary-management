@@ -18,8 +18,6 @@
 # Source code
 [Download here](https://drive.google.com/open?id=1VO3SNnDPaIE_XNyl3z_qZoerr4pfYRrL)
 
-# Changelog
-
 # Contact
 - 17520514.gm.uit.edu.vn
 
