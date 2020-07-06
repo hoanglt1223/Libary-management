@@ -1,0 +1,1 @@
+SQLCMD -S . -E -i createDBQLTV.sql

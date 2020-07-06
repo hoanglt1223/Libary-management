@@ -45,3 +45,16 @@ C:\Users\nguye\Desktop\cnpm\QLTV\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cach
 C:\Users\nguye\Desktop\cnpm\QLTV\BUS\obj\Debug\BUS.csproj.CopyComplete
 C:\Users\nguye\Desktop\cnpm\QLTV\BUS\obj\Debug\BUS.dll
 C:\Users\nguye\Desktop\cnpm\QLTV\BUS\obj\Debug\BUS.pdb
+\\10.0.1.3\Projects\MetroLibrarian\source\BUS\bin\Debug\Properties\AssemblyInfo.cs
+\\10.0.1.3\Projects\MetroLibrarian\source\BUS\bin\Debug\BUS.dll
+\\10.0.1.3\Projects\MetroLibrarian\source\BUS\bin\Debug\BUS.pdb
+\\10.0.1.3\Projects\MetroLibrarian\source\BUS\bin\Debug\DAO.dll
+\\10.0.1.3\Projects\MetroLibrarian\source\BUS\bin\Debug\DTO.dll
+\\10.0.1.3\Projects\MetroLibrarian\source\BUS\bin\Debug\Microsoft.CSharp.dll
+\\10.0.1.3\Projects\MetroLibrarian\source\BUS\bin\Debug\DAO.pdb
+\\10.0.1.3\Projects\MetroLibrarian\source\BUS\bin\Debug\DTO.pdb
+\\10.0.1.3\Projects\MetroLibrarian\source\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+\\10.0.1.3\Projects\MetroLibrarian\source\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+\\10.0.1.3\Projects\MetroLibrarian\source\BUS\obj\Debug\BUS.csproj.CopyComplete
+\\10.0.1.3\Projects\MetroLibrarian\source\BUS\obj\Debug\BUS.dll
+\\10.0.1.3\Projects\MetroLibrarian\source\BUS\obj\Debug\BUS.pdb

@@ -60,7 +60,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(145, 21);
             this.label3.TabIndex = 10;
-            this.label3.Text = "Nguyễn Công Hoan";
+            this.label3.Text = "Nguyễn Thị Thanh Trúc";
             // 
             // label4
             // 
@@ -79,7 +79,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(136, 19);
             this.label1.TabIndex = 16;
-            this.label1.Text = "Copyright © 2019 UIT";
+            this.label1.Text = "Copyright © 2020 UIT";
             // 
             // frmThongTin
             // 

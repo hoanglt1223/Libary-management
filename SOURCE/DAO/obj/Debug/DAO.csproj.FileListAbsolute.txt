@@ -37,3 +37,14 @@ C:\Users\nguye\Desktop\cnpm\QLTV\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cach
 C:\Users\nguye\Desktop\cnpm\QLTV\DAO\obj\Debug\DAO.csproj.CopyComplete
 C:\Users\nguye\Desktop\cnpm\QLTV\DAO\obj\Debug\DAO.dll
 C:\Users\nguye\Desktop\cnpm\QLTV\DAO\obj\Debug\DAO.pdb
+\\10.0.1.3\Projects\MetroLibrarian\source\DAO\bin\Debug\Properties\AssemblyInfo.cs
+\\10.0.1.3\Projects\MetroLibrarian\source\DAO\bin\Debug\DAO.dll
+\\10.0.1.3\Projects\MetroLibrarian\source\DAO\bin\Debug\DAO.pdb
+\\10.0.1.3\Projects\MetroLibrarian\source\DAO\bin\Debug\DTO.dll
+\\10.0.1.3\Projects\MetroLibrarian\source\DAO\bin\Debug\Microsoft.CSharp.dll
+\\10.0.1.3\Projects\MetroLibrarian\source\DAO\bin\Debug\DTO.pdb
+\\10.0.1.3\Projects\MetroLibrarian\source\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+\\10.0.1.3\Projects\MetroLibrarian\source\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+\\10.0.1.3\Projects\MetroLibrarian\source\DAO\obj\Debug\DAO.csproj.CopyComplete
+\\10.0.1.3\Projects\MetroLibrarian\source\DAO\obj\Debug\DAO.dll
+\\10.0.1.3\Projects\MetroLibrarian\source\DAO\obj\Debug\DAO.pdb

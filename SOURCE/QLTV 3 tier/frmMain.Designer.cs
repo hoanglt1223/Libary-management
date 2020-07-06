@@ -490,7 +490,7 @@
             this.lbtieude.Size = new System.Drawing.Size(608, 25);
             this.lbtieude.Style = MetroFramework.MetroColorStyle.Pink;
             this.lbtieude.TabIndex = 12;
-            this.lbtieude.Text = "Phần mềm quản lý thư viện - Đồ án cuối kỳ Nhập môn Công nghệ Phần mềm";
+            this.lbtieude.Text = "Phần mềm quản lý thư viện";
             // 
             // pnMunSach
             // 
