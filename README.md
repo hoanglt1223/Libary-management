@@ -20,7 +20,7 @@
 [Download here](./ARCHIVE/QLTV.rar?raw=true)
 
 # Seminar
-[Seminar here](./WIP/Seminar.pptx?raw=true)
+[Seminar here](./docs/Seminar.pptx?raw=true)
 
 # Contact
 - 17520514.gm.uit.edu.vn
