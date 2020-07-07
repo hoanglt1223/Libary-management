@@ -49,18 +49,18 @@
             this.label10.AutoSize = true;
             this.label10.Location = new System.Drawing.Point(247, 118);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(72, 21);
+            this.label10.Size = new System.Drawing.Size(94, 21);
             this.label10.TabIndex = 15;
-            this.label10.Text = "Nhóm TA";
+            this.label10.Text = "Nhóm TA100";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(247, 75);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(145, 21);
+            this.label3.Size = new System.Drawing.Size(165, 21);
             this.label3.TabIndex = 10;
-            this.label3.Text = "Nguyễn Công Hoan";
+            this.label3.Text = "Nguyễn Thị Thanh Trúc";
             // 
             // label4
             // 
@@ -77,9 +77,9 @@
             this.label1.Font = new System.Drawing.Font("Segoe UI Light", 10F);
             this.label1.Location = new System.Drawing.Point(160, 167);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(136, 19);
+            this.label1.Size = new System.Drawing.Size(138, 19);
             this.label1.TabIndex = 16;
-            this.label1.Text = "Copyright © 2019 UIT";
+            this.label1.Text = "Copyright © 2020 UIT";
             // 
             // frmThongTin
             // 

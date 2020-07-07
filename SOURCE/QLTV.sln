@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLTV", "QLTV 3 tier\QLTV.csproj", "{9B06E999-D6C7-4AC7-AA91-132585615829}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{E5B670FA-D41E-4243-8D31-738FD40416CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{EA8676F0-73A1-4267-AF17-368D13D03CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLTV.Test", "QLTV.Test\QLTV.Test.csproj", "{6410783D-7ECA-4B25-8E4E-2571DD5C72D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,8 +35,15 @@ Global
 		{EA8676F0-73A1-4267-AF17-368D13D03CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA8676F0-73A1-4267-AF17-368D13D03CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA8676F0-73A1-4267-AF17-368D13D03CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6410783D-7ECA-4B25-8E4E-2571DD5C72D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6410783D-7ECA-4B25-8E4E-2571DD5C72D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6410783D-7ECA-4B25-8E4E-2571DD5C72D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6410783D-7ECA-4B25-8E4E-2571DD5C72D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F98CCD5-E6F4-4E88-9052-56445FF78BBC}
 	EndGlobalSection
 EndGlobal

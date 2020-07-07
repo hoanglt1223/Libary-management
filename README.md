@@ -1,7 +1,7 @@
 # Library Management System
 # Introduction to Software Engineering
 * A simple libary management system built using `C#` and `SQL Server` for the purpose of a school project. 
-* Developing by TA's Team
+* Developing by TA100's Team
 
 # Features
 
@@ -9,11 +9,12 @@
 
 # Authors
 
-- [TA]
+- [TA100]
 
 - Nguyễn Thanh Hoàng	17520514 (leader)
 - Nguyễn Đoàn Anh Tú	17521199 
-- Trần Diệu Bảo Trân	17521150
+- Lê Việt Bách			17520261
+- Tô Diệp Thiên Anh		17520251
 
 # Source code
 [Download here](./ARCHIVE/QLTV.rar?raw=true)
