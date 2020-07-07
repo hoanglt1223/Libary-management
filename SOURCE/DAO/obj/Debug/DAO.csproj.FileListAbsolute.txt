@@ -59,3 +59,14 @@ D:\GitHub\MetroLibrarian\SOURCE\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
 D:\GitHub\MetroLibrarian\SOURCE\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\GitHub\MetroLibrarian\SOURCE\DAO\obj\Debug\DAO.dll
 D:\GitHub\MetroLibrarian\SOURCE\DAO\obj\Debug\DAO.pdb
+D:\GitHub\Libary-management\SOURCE\DAO\bin\Debug\Properties\AssemblyInfo.cs
+D:\GitHub\Libary-management\SOURCE\DAO\bin\Debug\DAO.dll
+D:\GitHub\Libary-management\SOURCE\DAO\bin\Debug\DAO.pdb
+D:\GitHub\Libary-management\SOURCE\DAO\bin\Debug\DTO.dll
+D:\GitHub\Libary-management\SOURCE\DAO\bin\Debug\Microsoft.CSharp.dll
+D:\GitHub\Libary-management\SOURCE\DAO\bin\Debug\DTO.pdb
+D:\GitHub\Libary-management\SOURCE\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\GitHub\Libary-management\SOURCE\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\GitHub\Libary-management\SOURCE\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\GitHub\Libary-management\SOURCE\DAO\obj\Debug\DAO.dll
+D:\GitHub\Libary-management\SOURCE\DAO\obj\Debug\DAO.pdb

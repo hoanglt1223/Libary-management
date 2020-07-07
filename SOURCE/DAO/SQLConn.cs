@@ -12,7 +12,7 @@ namespace DAO
     {
         public static SqlConnection connect()
         {
-            SqlConnection conn = new SqlConnection("Server=THANHHOANG\\SQLEXPRESS;Database=QLTV;Trusted_Connection=True"); //connect to default SQLSERVER name
+            SqlConnection conn = new SqlConnection("Server=.\\SQLEXPRESS;Database=QLTV;Trusted_Connection=True"); //connect to default SQLSERVER name
             return conn;
         }
 

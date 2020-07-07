@@ -4001,11 +4001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\MetroLibrarian\\SOURCE\\QLTV.Test\\QLTV.Test.csproj",
+      "projectUniqueName": "D:\\GitHub\\Libary-management\\SOURCE\\QLTV.Test\\QLTV.Test.csproj",
       "projectName": "QLTV.Test",
-      "projectPath": "D:\\GitHub\\MetroLibrarian\\SOURCE\\QLTV.Test\\QLTV.Test.csproj",
+      "projectPath": "D:\\GitHub\\Libary-management\\SOURCE\\QLTV.Test\\QLTV.Test.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\MetroLibrarian\\SOURCE\\QLTV.Test\\obj\\",
+      "outputPath": "D:\\GitHub\\Libary-management\\SOURCE\\QLTV.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4024,17 +4024,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\GitHub\\MetroLibrarian\\SOURCE\\BUS\\BUS.csproj": {
-              "projectPath": "D:\\GitHub\\MetroLibrarian\\SOURCE\\BUS\\BUS.csproj"
+            "D:\\GitHub\\Libary-management\\SOURCE\\BUS\\BUS.csproj": {
+              "projectPath": "D:\\GitHub\\Libary-management\\SOURCE\\BUS\\BUS.csproj"
             },
-            "D:\\GitHub\\MetroLibrarian\\SOURCE\\DAO\\DAO.csproj": {
-              "projectPath": "D:\\GitHub\\MetroLibrarian\\SOURCE\\DAO\\DAO.csproj"
+            "D:\\GitHub\\Libary-management\\SOURCE\\DAO\\DAO.csproj": {
+              "projectPath": "D:\\GitHub\\Libary-management\\SOURCE\\DAO\\DAO.csproj"
             },
-            "D:\\GitHub\\MetroLibrarian\\SOURCE\\DTO\\DTO.csproj": {
-              "projectPath": "D:\\GitHub\\MetroLibrarian\\SOURCE\\DTO\\DTO.csproj"
+            "D:\\GitHub\\Libary-management\\SOURCE\\DTO\\DTO.csproj": {
+              "projectPath": "D:\\GitHub\\Libary-management\\SOURCE\\DTO\\DTO.csproj"
             },
-            "D:\\GitHub\\MetroLibrarian\\SOURCE\\QLTV 3 tier\\QLTV.csproj": {
-              "projectPath": "D:\\GitHub\\MetroLibrarian\\SOURCE\\QLTV 3 tier\\QLTV.csproj"
+            "D:\\GitHub\\Libary-management\\SOURCE\\QLTV 3 tier\\QLTV.csproj": {
+              "projectPath": "D:\\GitHub\\Libary-management\\SOURCE\\QLTV 3 tier\\QLTV.csproj"
             }
           }
         }

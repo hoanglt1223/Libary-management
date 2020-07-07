@@ -71,3 +71,16 @@ D:\GitHub\MetroLibrarian\SOURCE\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
 D:\GitHub\MetroLibrarian\SOURCE\BUS\obj\Debug\BUS.csproj.CopyComplete
 D:\GitHub\MetroLibrarian\SOURCE\BUS\obj\Debug\BUS.dll
 D:\GitHub\MetroLibrarian\SOURCE\BUS\obj\Debug\BUS.pdb
+D:\GitHub\Libary-management\SOURCE\BUS\bin\Debug\Properties\AssemblyInfo.cs
+D:\GitHub\Libary-management\SOURCE\BUS\bin\Debug\BUS.dll
+D:\GitHub\Libary-management\SOURCE\BUS\bin\Debug\BUS.pdb
+D:\GitHub\Libary-management\SOURCE\BUS\bin\Debug\DAO.dll
+D:\GitHub\Libary-management\SOURCE\BUS\bin\Debug\DTO.dll
+D:\GitHub\Libary-management\SOURCE\BUS\bin\Debug\Microsoft.CSharp.dll
+D:\GitHub\Libary-management\SOURCE\BUS\bin\Debug\DAO.pdb
+D:\GitHub\Libary-management\SOURCE\BUS\bin\Debug\DTO.pdb
+D:\GitHub\Libary-management\SOURCE\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\GitHub\Libary-management\SOURCE\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\GitHub\Libary-management\SOURCE\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\GitHub\Libary-management\SOURCE\BUS\obj\Debug\BUS.dll
+D:\GitHub\Libary-management\SOURCE\BUS\obj\Debug\BUS.pdb

@@ -45,3 +45,12 @@ D:\GitHub\MetroLibrarian\SOURCE\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 D:\GitHub\MetroLibrarian\SOURCE\DTO\obj\Debug\DTO.csproj.CopyComplete
 D:\GitHub\MetroLibrarian\SOURCE\DTO\obj\Debug\DTO.dll
 D:\GitHub\MetroLibrarian\SOURCE\DTO\obj\Debug\DTO.pdb
+D:\GitHub\Libary-management\SOURCE\DTO\bin\Debug\Properties\AssemblyInfo.cs
+D:\GitHub\Libary-management\SOURCE\DTO\bin\Debug\DTO.dll
+D:\GitHub\Libary-management\SOURCE\DTO\bin\Debug\DTO.pdb
+D:\GitHub\Libary-management\SOURCE\DTO\bin\Debug\Microsoft.CSharp.dll
+D:\GitHub\Libary-management\SOURCE\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\GitHub\Libary-management\SOURCE\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\GitHub\Libary-management\SOURCE\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\GitHub\Libary-management\SOURCE\DTO\obj\Debug\DTO.dll
+D:\GitHub\Libary-management\SOURCE\DTO\obj\Debug\DTO.pdb
