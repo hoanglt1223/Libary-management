@@ -1,5 +1,5 @@
 # Library Management System
-# Introduction to Software Engineering
+# Testing SE113
 * A simple libary management system built using `C#` and `SQL Server` for the purpose of a school project. 
 * Developing by TA100's Team
 
@@ -11,9 +11,9 @@
 
 - [TA100]
 
-- Nguyễn Thanh Hoàng	17520514 (leader)
+- Lê Việt Bách			  17520261 (leader)
+- Nguyễn Thanh Hoàng	17520514
 - Nguyễn Đoàn Anh Tú	17521199 
-- Lê Việt Bách			17520261
 - Tô Diệp Thiên Anh		17520251
 
 # Source code
