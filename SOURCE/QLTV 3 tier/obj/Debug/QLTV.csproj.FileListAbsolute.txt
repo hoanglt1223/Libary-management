@@ -197,3 +197,7 @@ C:\Users\nguye\Desktop\cnpm\QLTV\QLTV 3 tier\obj\Debug\QLTV.pdb
 \\10.0.1.3\Projects\MetroLibrarian\source\QLTV 3 tier\obj\Debug\QLTV.csproj.GenerateResource.cache
 \\10.0.1.3\Projects\MetroLibrarian\source\QLTV 3 tier\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
 \\10.0.1.3\Projects\MetroLibrarian\source\QLTV 3 tier\obj\Debug\QLTV.csproj.CopyComplete
+\\10.0.1.3\Projects\MetroLibrarian\source\QLTV 3 tier\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+\\10.0.1.3\Projects\MetroLibrarian\source\QLTV 3 tier\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+\\10.0.1.3\Projects\MetroLibrarian\source\QLTV 3 tier\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+\\10.0.1.3\Projects\MetroLibrarian\source\QLTV 3 tier\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll

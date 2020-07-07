@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\QLTV.Test\\QLTV.Test.csproj": {}
+  },
+  "projects": {
+    "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\BUS\\BUS.csproj": {
+      "restore": {
+        "projectUniqueName": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\BUS\\BUS.csproj",
+        "projectName": "BUS",
+        "projectPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\BUS\\BUS.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DAO\\DAO.csproj": {
+                "projectPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DAO\\DAO.csproj"
+              },
+              "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DTO\\DTO.csproj": {
+                "projectPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DAO\\DAO.csproj": {
+      "restore": {
+        "projectUniqueName": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DAO\\DAO.csproj",
+        "projectName": "DAO",
+        "projectPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DAO\\DAO.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DTO\\DTO.csproj": {
+                "projectPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DTO\\DTO.csproj": {
+      "restore": {
+        "projectUniqueName": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DTO\\DTO.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\QLTV 3 tier\\QLTV.csproj": {
+      "restore": {
+        "projectUniqueName": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\QLTV 3 tier\\QLTV.csproj",
+        "projectName": "QLTV",
+        "projectPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\QLTV 3 tier\\QLTV.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\BUS\\BUS.csproj": {
+                "projectPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\BUS\\BUS.csproj"
+              },
+              "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DTO\\DTO.csproj": {
+                "projectPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\QLTV.Test\\QLTV.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\QLTV.Test\\QLTV.Test.csproj",
+        "projectName": "QLTV.Test",
+        "projectPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\QLTV.Test\\QLTV.Test.csproj",
+        "packagesPath": "C:\\Users\\destr\\.nuget\\packages\\",
+        "outputPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\QLTV.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\destr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\BUS\\BUS.csproj": {
+                "projectPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\BUS\\BUS.csproj"
+              },
+              "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DAO\\DAO.csproj": {
+                "projectPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DAO\\DAO.csproj"
+              },
+              "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DTO\\DTO.csproj": {
+                "projectPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\DTO\\DTO.csproj"
+              },
+              "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\QLTV 3 tier\\QLTV.csproj": {
+                "projectPath": "\\\\10.0.1.3\\Projects\\MetroLibrarian\\source\\QLTV 3 tier\\QLTV.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
